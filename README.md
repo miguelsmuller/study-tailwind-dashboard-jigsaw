@@ -5,12 +5,15 @@ A repository to keep a study project for the development of a dashboard using on
 
 For quick learning this study will be developed with the **[Jigsaw Framework](https://jigsaw.tighten.co/)** that allows building static sites using the modern tooling like that Laravel.
 
+## **VIEW DEMO**
+**[Tailwind Dashboar Demonstration](https://miguelsmuller.github.io/tailwind-dashboard/)** Some demo pages for the result to be seen
+
 ![UI - Inbox](https://raw.githubusercontent.com/miguelsmuller/tailwind-dashboard/master/docs/images/ui-inbox.jpeg "UI - Inbox")
 
-## **THANKS**
+## **SPECIAL THANKS**
 This study is based on the content made by **[Adam Wathan](https://github.com/adamwathan)** *(Creator of Tailwind CSS)* in his **[Live](https://www.youtube.com/watch?v=6xgMkGMIudE)** in his **[ YouTube Channel](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)**.
 
-I'm just starting with Tailwind CSS but I can only thank Adam for the work done by Adam. He really does an excellent job with Tailwind and his videos. 
+I'm just starting with Tailwind CSS but I can only thank Adam for the work he did. He really does an excellent job with Tailwind and his videos. 
 
 ## **INSTALLING**
 To start the project it is essential to install the NPM dependencies:
