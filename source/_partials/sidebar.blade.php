@@ -108,11 +108,11 @@
     </div>
 
     <h2 class="mt-6 text-xs font-semibold text-gray-600 uppercase tracking-wide">Extra Pages</h2>
-    <div class="mt-3">
+    <div class="mt-3 flex flex-col space-y-2">
       <a href="{{ $page->baseUrl }}/" class="block text-sm font-medium text-gray-700">Dashboard</a>
-      <a href="{{ $page->baseUrl }}/inbox" class="mt-4 block text-sm font-medium text-gray-700">Inbox</a>
-      <a href="{{ $page->baseUrl }}/blank" class="mt-4 block text-sm font-medium text-gray-700">Blank</a>
-      <a href="{{ $page->baseUrl }}/login" class="mt-4 block text-sm font-medium text-gray-700">Login</a>
+      <a href="{{ $page->baseUrl }}/components" class="block text-sm font-medium text-gray-700">Components</a>
+      <a href="{{ $page->baseUrl }}/inbox" class="block text-sm font-medium text-gray-700">Inbox</a>
+      <a href="{{ $page->baseUrl }}/login" class="block text-sm font-medium text-gray-700">Login</a>
     </div>
   </nav>
   <div class="flex-shrink-0 w-full flex items-center justify-between border-t p-2 gap-x-0.5">

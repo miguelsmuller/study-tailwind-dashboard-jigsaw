@@ -15,7 +15,7 @@ For quick learning this study will be developed with the **[Jigsaw Framework](ht
 <br>
 
 ## **VIEW DEMO**
-**[Tailwind Dashboar Demonstration](https://miguelsmuller.github.io/tailwind-dashboard/)** Some demo pages for the result to be seen
+**[Tailwind Dashboard Demonstration](https://miguelsmuller.github.io/tailwind-dashboard/)** Some demo pages for the result to be seen
 
 ![UI - Inbox](https://raw.githubusercontent.com/miguelsmuller/tailwind-dashboard/master/docs/images/ui-inbox.jpeg "UI - Inbox")
 
@@ -29,15 +29,13 @@ I'm just starting with Tailwind CSS but I can only thank Adam for the work he di
 <br>
 
 ## **INSTALLING**
-To start the project it is essential to install the NPM dependencies:
-
+To start the project it is essential to install the NPM dependencies:  
 **`$ npm install`**
 
 <br>
 
 ## **BUILDING**
-When you'd like to generate your site, run the build command from within your project root:
-
+When you'd like to generate your site, run the build command from within your project root:  
 **`$ ./vendor/bin/jigsaw build`**
 
 Jigsaw will generate your static HTML and place it in the /build_local directory by default.
@@ -45,19 +43,16 @@ Jigsaw will generate your static HTML and place it in the /build_local directory
 <br>
 
 ## **PREVIEWING**
-To quickly preview your site, use the serve command and access the address http://localhost:8000 in the browser :
-
+To quickly preview your site, use the serve command and access the address **http://localhost:8000** in the browser:  
 **`$ ./vendor/bin/jigsaw serve`**
 
-You can also optionally specify the environment and port to serve like so:
-
+You can also optionally specify the environment and port to serve like so:  
 **`$ ./vendor/bin/jigsaw serve production --port=8080`**
 
 <br>
 
 ## **EDINTING**
-As we are using Laravel Mix to compile your assets (which is included in the default Jigsaw setup), we can use Browsersync by simply running:
-
+As we are using Laravel Mix to compile your assets (which is included in the default Jigsaw setup), we can use Browsersync by simply running:  
 **`$ npm run watch`**
 
 <br>
