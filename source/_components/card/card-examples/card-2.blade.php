@@ -1,4 +1,4 @@
-<div class="flex-none rounded-md overflow-hidden bg-white border border-gray-300">
+<div class="flex-none rounded-md overflow-hidden border border-gray-300 bg-white text-gray-600">
   <div class="flex items-center p-4 pb-2">
     <span class="bg-indigo-400 p-2 h-4 w-4 rounded-full relative">
       <svg width="20" fill="currentColor" height="20" class="text-white h-2 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">

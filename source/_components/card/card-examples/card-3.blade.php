@@ -1,4 +1,4 @@
-<div class="flex-none rounded-md overflow-hidden bg-white border border-gray-300">
+<div class="flex-none rounded-md overflow-hidden border border-gray-300 bg-white text-gray-600">
   <div class="p-4 space-x-4 flex items-center">
     <div class="bg-pink-400 p-2 h-8 w-8 rounded-full relative">
       <svg width="20" fill="currentColor" class="text-white h-8 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2" viewBox="0 0 1792 1792">
@@ -18,9 +18,5 @@
       </svg>
       <span>12.7%</span>
     </div>
-  </div>
-
-  <div class="flex items-center px-4 py-3 bg-gray-50 border-t">
-    <a href="#" class="text-xs text-gray-500">View All</a>
   </div>
 </div>

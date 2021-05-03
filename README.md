@@ -30,13 +30,13 @@ I'm just starting with Tailwind CSS but I can only thank Adam for the work he di
 
 ## **INSTALLING**
 To start the project it is essential to install the NPM dependencies:  
-**`$ npm install`**
+**`$ npm install && composer install`**
 
 <br>
 
 ## **BUILDING**
 When you'd like to generate your site, run the build command from within your project root:  
-**`$ ./vendor/bin/jigsaw build`**
+**`$ ./vendor/bin/jigsaw build production`**
 
 Jigsaw will generate your static HTML and place it in the /build_local directory by default.
 

@@ -1,4 +1,4 @@
-<div class="flex-none rounded-md overflow-hidden bg-white border border-gray-300">
+<div class="flex-none rounded-md overflow-hidden border border-gray-300 bg-white text-gray-600">
   <div class="flex items-center p-4 pb-2">
     <span class="bg-green-400 p-2 h-4 w-4 rounded-full relative">
       <svg width="20" fill="currentColor" height="20" class="text-white h-2 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2" viewBox="0 0 1792 1792" >
@@ -6,15 +6,8 @@
         </path>
       </svg>
     </span>
-    <span class="text-sm font-semibold text-gray-400 ml-2">Sales</span>
+    <span class="text-sm font-semibold text-gray-400 ml-2">Card Title</span>
   </div>
 
-  <div class="flex flex-col p-4 pt-2 justify-start">
-    <span class="text-gray-600 text-4xl text-left font-bold">36K</span>
-    
-    <div class="relative w-48 h-2 rounded mt-2 bg-green-100 ">
-      <div class="absolute top-0 h-2 left-0 rounded w-2/3 bg-green-400">
-      </div>
-    </div>
-  </div>
+  <div class="flex flex-col p-4 pt-2 justify-start h-20 w-60"></div>
 </div>

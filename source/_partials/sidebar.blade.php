@@ -5,12 +5,12 @@
       <a href="#"
         class="-mx-3 px-3 py-1 flex items-center justify-between text-sm font-medium bg-gray-200 rounded-lg">
         <span class="inline-flex">
-          <svg 
+          <svg
             class="h-6 w-6 text-gray-700"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor">
-            <path 
+            <path
               stroke-linecap="round"
               stroke-linejoin="round"
               stroke-width="2"
@@ -26,7 +26,7 @@
       <a href="#"
         class="-mx-3 mt-2 px-3 py-2 flex items-center justify-between text-sm font-medium rounded-lg">
         <span class="inline-flex">
-          <svg 
+          <svg
             class="h-6 w-6 text-gray-500"
             fill="none"
             viewBox="0 0 24 24"
@@ -46,15 +46,15 @@
       <a href="#"
         class="-mx-3 mt-2 px-3 py-2 flex items-center justify-between text-sm font-medium rounded-lg">
         <span class="inline-flex">
-          <svg 
+          <svg
             class="h-6 w-6 text-gray-500"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor">
-            <path 
-              stroke-linecap="round" 
-              stroke-linejoin="round" 
-              stroke-width="2" 
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
               d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
             />
           </svg>
@@ -68,15 +68,15 @@
       <a href="#"
         class="-mx-3 mt-2 px-3 py-2 flex items-center justify-between text-sm font-medium rounded-lg">
         <span class="inline-flex">
-          <svg 
+          <svg
             class="h-6 w-6 text-gray-500"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor">
-            <path 
-              stroke-linecap="round" 
-              stroke-linejoin="round" 
-              stroke-width="2" 
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
               d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z"
             />
           </svg>
@@ -90,7 +90,7 @@
       <a href="#"
         class="-mx-3 mt-2 px-3 py-2 flex items-center justify-between text-sm font-medium rounded-lg">
         <span class="inline-flex">
-          <svg 
+          <svg
             class="h-6 w-6 text-gray-500"
             fill="none"
             viewBox="0 0 24 24"
@@ -110,7 +110,8 @@
     <h2 class="mt-6 text-xs font-semibold text-gray-600 uppercase tracking-wide">Extra Pages</h2>
     <div class="mt-3 flex flex-col space-y-2">
       <a href="{{ $page->baseUrl }}/" class="block text-sm font-medium text-gray-700">Dashboard</a>
-      <a href="{{ $page->baseUrl }}/components" class="block text-sm font-medium text-gray-700">Components</a>
+      <a href="{{ $page->baseUrl }}/cards" class="block text-sm font-medium text-gray-700">Cards</a>
+      <a href="{{ $page->baseUrl }}/lists" class="block text-sm font-medium text-gray-700">Lists</a>
       <a href="{{ $page->baseUrl }}/inbox" class="block text-sm font-medium text-gray-700">Inbox</a>
       <a href="{{ $page->baseUrl }}/login" class="block text-sm font-medium text-gray-700">Login</a>
     </div>
@@ -126,8 +127,8 @@
       </div>
 
       <div class="flex flex-col text-left">
-        <div class="block truncate text-sm font-semibold text-gray-700">Monica White</div> 
-        <div class="block truncate text-xs font-medium text-gray-400">Chief Departament</div> 
+        <div class="block truncate text-sm font-semibold text-gray-700">Monica White</div>
+        <div class="block truncate text-xs font-medium text-gray-400">Chief Departament</div>
       </div>
     </button>
 
@@ -136,7 +137,7 @@
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
       </svg>
     </button>
-    
+
     <button class="mx-0.5 p-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-300 hover:text-gray-900 focus:outline-none focus:ring-1 focus:ring-gray-200 focus:ring-offset-2 focus:text-gray-900 focus:bg-gray-300 focus:ring-offset-gray-800">
       <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path
