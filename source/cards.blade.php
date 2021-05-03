@@ -1,5 +1,5 @@
 ---
-title: "Components - Tailwind and Jigsaw"
+title: "Cards - Tailwind and Jigsaw"
 ---
 
 @extends('_layouts.main')

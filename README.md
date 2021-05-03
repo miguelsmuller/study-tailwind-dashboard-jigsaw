@@ -1,4 +1,5 @@
 # **Dashboard Tailwind CSS and Jigsaw**  
+## **OVERVIEW**
 A repository to keep a study project for the development of a dashboard using only Tailwind CSS.
 
 **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first framework package with classes that can be composed to build any design, directly in your markup.
@@ -66,7 +67,9 @@ As we are using Laravel Mix to compile your assets (which is included in the def
 6. Push to the branch: `git push origin feature-123`
 7. [Submit a pull request](https://help.github.com/articles/using-pull-requests/) :D
 
-#### **Before commit, double check your code. Please dude.**
+### **PRECAUTIONS**  
+**Before commit, double check your code. Please dude.**  
+
 - Execute a `git pull` to keep your checkout up-to-date
 - Invoke a `git diff --cached` before committing
 - **NOT COMMIT BEFORE RUNNING THE PROJECT LOCALLY AND SEE THE CHANGES RUNNING**
